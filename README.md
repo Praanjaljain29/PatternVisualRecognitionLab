@@ -36,3 +36,11 @@ To review my implementations locally:
 1. Clone the repository:
 ```bash
    git clone [https://github.com/Praanjaljain29/PatternVisualRecognitionLab.git](https://github.com/Praanjaljain29/PatternVisualRecognitionLab.git)
+
+2.Install the required dependencies:
+'''bash
+   pip install numpy pandas matplotlib opencv-python scikit-learn jupyter
+
+3.Launch Jupyter Notebook and navigate through the lab directories:
+'''bash
+   jupyter notebook
